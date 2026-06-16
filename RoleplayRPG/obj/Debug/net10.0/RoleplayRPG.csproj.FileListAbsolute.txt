@@ -1,0 +1,14 @@
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\bin\Debug\net10.0\RoleplayRPG.exe
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\bin\Debug\net10.0\RoleplayRPG.deps.json
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\bin\Debug\net10.0\RoleplayRPG.runtimeconfig.json
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\bin\Debug\net10.0\RoleplayRPG.dll
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\bin\Debug\net10.0\RoleplayRPG.pdb
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.GeneratedMSBuildEditorConfig.editorconfig
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.AssemblyInfoInputs.cache
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.AssemblyInfo.cs
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.csproj.CoreCompileInputs.cache
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.dll
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\refint\RoleplayRPG.dll
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.pdb
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\RoleplayRPG.genruntimeconfig.cache
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RoleplayRPG\obj\Debug\net10.0\ref\RoleplayRPG.dll
