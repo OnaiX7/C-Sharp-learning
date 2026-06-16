@@ -1,0 +1,14 @@
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\bin\Debug\net10.0\RGgame.exe
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\bin\Debug\net10.0\RGgame.deps.json
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\bin\Debug\net10.0\RGgame.runtimeconfig.json
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\bin\Debug\net10.0\RGgame.dll
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\bin\Debug\net10.0\RGgame.pdb
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.GeneratedMSBuildEditorConfig.editorconfig
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.AssemblyInfoInputs.cache
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.AssemblyInfo.cs
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.csproj.CoreCompileInputs.cache
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.dll
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\refint\RGgame.dll
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.pdb
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\RGgame.genruntimeconfig.cache
+S:\IT-Ausbildung\25FADP01\Emiliano Guerrero Galvan\RGgame\obj\Debug\net10.0\ref\RGgame.dll
